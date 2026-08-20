@@ -1,4 +1,11 @@
 # 💻 Design of Digital Systems Lab Assignment Portfolio
+
+<p align="center">
+  <img src="./assets/banner.png" alt="Digital Systems Banner" width="50%">
+  <br>
+  <sub>⚖️ <em>Image Credits:</em> <a href="https://www.ariat-tech.com/blog/the-basics-of-fpga-bitstream-structure.html">The Basics of FPGA Bitstream Structure</a></sub>
+</p>
+
 # 🌐 Repository Overview and Quick Links
 | Lab Number | Lab Project | Description | Quick Link |
 | :---: | :---: | :---: | :---: |
